@@ -1,0 +1,23 @@
+body{
+    margin: o;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    background: #000;
+    position: fixed;
+}
+
+p{
+    font-size: 5px;
+    line-height: 5px;
+    background: url(ye.jpg);
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0.07);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+    letter-spacing: 0.1px;
+}
